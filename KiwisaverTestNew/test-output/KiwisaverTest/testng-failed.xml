@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [KiwisaverTest]">
+  <test name="KiwisaverRetirementcaltests(failed)">
+    <classes>
+      <class name="com.kiwi.qa.test.Kiwisaverprojectedbalancetests">
+        <methods>
+          <include name="kiwibal"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.kiwi.qa.test.Kiwisaverprojectedbalancetests -->
+    </classes>
+  </test> <!-- KiwisaverRetirementcaltests(failed) -->
+</suite> <!-- Failed suite [KiwisaverTest] -->

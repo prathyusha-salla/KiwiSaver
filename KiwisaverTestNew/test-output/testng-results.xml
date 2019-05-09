@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="KiwisaverTest" duration-ms="62760" started-at="2019-05-09T10:11:12Z" finished-at="2019-05-09T10:12:15Z">
+    <groups>
+    </groups>
+    <test name="KiwisaverRetirementcaltests" duration-ms="62760" started-at="2019-05-09T10:11:12Z" finished-at="2019-05-09T10:12:15Z">
+      <class name="com.kiwi.qa.test.KiwisaverNavigationtests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.kiwi.qa.test.KiwisaverNavigationtests@4501b7af]" name="setup" is-config="true" duration-ms="7305" started-at="2019-05-09T22:12:01Z" finished-at="2019-05-09T22:12:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Nav()[pri:1, instance:com.kiwi.qa.test.KiwisaverNavigationtests@4501b7af]" name="Nav" duration-ms="6206" started-at="2019-05-09T22:12:08Z" finished-at="2019-05-09T22:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nav -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kiwi.qa.test.KiwisaverNavigationtests@4501b7af]" name="tearDown" is-config="true" duration-ms="807" started-at="2019-05-09T22:12:14Z" finished-at="2019-05-09T22:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.kiwi.qa.test.KiwisaverNavigationtests -->
+      <class name="com.kiwi.qa.test.KiwisaverRetirementcaltests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.kiwi.qa.test.KiwisaverRetirementcaltests@28d25987]" name="setup" is-config="true" duration-ms="7653" started-at="2019-05-09T22:11:43Z" finished-at="2019-05-09T22:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="kiwi()[pri:1, instance:com.kiwi.qa.test.KiwisaverRetirementcaltests@28d25987]" name="kiwi" duration-ms="393" started-at="2019-05-09T22:11:51Z" finished-at="2019-05-09T22:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiwi -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kiwi.qa.test.KiwisaverRetirementcaltests@28d25987]" name="tearDown" is-config="true" duration-ms="715" started-at="2019-05-09T22:11:51Z" finished-at="2019-05-09T22:11:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.kiwi.qa.test.KiwisaverRetirementcaltests@28d25987]" name="setup" is-config="true" duration-ms="7609" started-at="2019-05-09T22:11:52Z" finished-at="2019-05-09T22:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testverify()[pri:2, instance:com.kiwi.qa.test.KiwisaverRetirementcaltests@28d25987]" name="testverify" duration-ms="536" started-at="2019-05-09T22:11:59Z" finished-at="2019-05-09T22:12:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testverify -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kiwi.qa.test.KiwisaverRetirementcaltests@28d25987]" name="tearDown" is-config="true" duration-ms="818" started-at="2019-05-09T22:12:00Z" finished-at="2019-05-09T22:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.kiwi.qa.test.KiwisaverRetirementcaltests -->
+      <class name="com.kiwi.qa.test.Kiwisaverprojectedbalancetests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.kiwi.qa.test.Kiwisaverprojectedbalancetests@59fa1d9b]" name="setup" is-config="true" duration-ms="8181" started-at="2019-05-09T22:11:12Z" finished-at="2019-05-09T22:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="kiwibalCriteriaOne()[pri:1, instance:com.kiwi.qa.test.Kiwisaverprojectedbalancetests@59fa1d9b]" name="kiwibalCriteriaOne" duration-ms="1758" started-at="2019-05-09T22:11:20Z" finished-at="2019-05-09T22:11:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiwibalCriteriaOne -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kiwi.qa.test.Kiwisaverprojectedbalancetests@59fa1d9b]" name="tearDown" is-config="true" duration-ms="964" started-at="2019-05-09T22:11:22Z" finished-at="2019-05-09T22:11:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.kiwi.qa.test.Kiwisaverprojectedbalancetests@59fa1d9b]" name="setup" is-config="true" duration-ms="7186" started-at="2019-05-09T22:11:23Z" finished-at="2019-05-09T22:11:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="kiwibalCriteriaTwo()[pri:2, instance:com.kiwi.qa.test.Kiwisaverprojectedbalancetests@59fa1d9b]" name="kiwibalCriteriaTwo" duration-ms="1629" started-at="2019-05-09T22:11:30Z" finished-at="2019-05-09T22:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiwibalCriteriaTwo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kiwi.qa.test.Kiwisaverprojectedbalancetests@59fa1d9b]" name="tearDown" is-config="true" duration-ms="770" started-at="2019-05-09T22:11:32Z" finished-at="2019-05-09T22:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.kiwi.qa.test.Kiwisaverprojectedbalancetests@59fa1d9b]" name="setup" is-config="true" duration-ms="7024" started-at="2019-05-09T22:11:33Z" finished-at="2019-05-09T22:11:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="kiwibalCriteriaThree()[pri:3, instance:com.kiwi.qa.test.Kiwisaverprojectedbalancetests@59fa1d9b]" name="kiwibalCriteriaThree" duration-ms="2364" started-at="2019-05-09T22:11:40Z" finished-at="2019-05-09T22:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiwibalCriteriaThree -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kiwi.qa.test.Kiwisaverprojectedbalancetests@59fa1d9b]" name="tearDown" is-config="true" duration-ms="810" started-at="2019-05-09T22:11:42Z" finished-at="2019-05-09T22:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.kiwi.qa.test.Kiwisaverprojectedbalancetests -->
+    </test> <!-- KiwisaverRetirementcaltests -->
+  </suite> <!-- KiwisaverTest -->
+</testng-results>

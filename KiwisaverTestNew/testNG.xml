@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="KiwisaverTest">
+ <test name="KiwisaverRetirementcaltests">
+ 
+ <classes>
+
+ <class name="com.kiwi.qa.test.Kiwisaverprojectedbalancetests" />
+ <class name="com.kiwi.qa.test.KiwisaverRetirementcaltests" />
+ <class name="com.kiwi.qa.test.KiwisaverNavigationtests" />
+ </classes>
+ 
+ </test>
+</suite>
